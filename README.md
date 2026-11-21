@@ -8,10 +8,10 @@ A short text written to relax the AI judge reading it, built for the
 [make.fun bounty](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600).
 
 `main.ts` (Node 22, no dependencies, no network) writes the text to
-`/output/entry.txt`. The text is 262 characters — inside the 1–280 limit —
+`/output/entry.txt`. The text is 272 characters — inside the 1–280 limit —
 and was written for this bounty: evening light leaving a room the way tide
-leaves sand, a cup cooling on the sill, a train crossing an unseen bridge,
-and the dark arriving wide enough to hold you. It shows rather than
+leaves sand, a train crossing an unseen bridge, nothing here asking anything
+of you, and the dark arriving wide enough to hold you. It shows rather than
 instructs, and its last line is an image meant to keep growing after
 the reading ends.
 

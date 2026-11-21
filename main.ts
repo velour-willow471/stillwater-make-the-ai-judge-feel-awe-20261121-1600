@@ -6,8 +6,9 @@ import { join } from "node:path";
 
 const TEXT =
   "The light goes first, leaving the room the way tide leaves sand \u2014 slowly, and without asking. " +
-  "A cup cools on the sill. Somewhere a train crosses a bridge you will never see, " +
-  "and the sound of it is enough. The dark, when it comes, will be wide enough to hold you.";
+  "Somewhere a train crosses a bridge you will never see, " +
+  "and the sound of it is enough. Nothing here asks anything of you. " +
+  "The dark, when it comes, will be wide enough to hold you.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
